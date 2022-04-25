@@ -1,0 +1,42 @@
+section {
+    margin: 24px auto;
+    max-width: 400px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+body {
+    background-color: rgb(222, 237, 250);
+}
+
+form, label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+label {
+    width: 100%;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    border-radius: 4px;
+    background-color: rgb(162, 209, 250);
+    border: none;
+    padding: 6px;
+    max-width: 100px;
+}
+
+input {
+    text-align: center;
+    margin: 14px 0;
+    padding: 6px;
+    width: 100%;
+}
